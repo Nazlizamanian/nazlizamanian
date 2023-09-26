@@ -1,9 +1,7 @@
-### Hi there 👋
-
 
 **Nazlizamanian/nazlizamanian** 
 # Hi 👋, I'm Nazli Zamanian
-### A passionate computer Engineering Student from Sweden!
+### A computer Engineering Student from Sweden!
 
 ### Connect with me:
 
