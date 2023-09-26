@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Nazlizamanian/nazlizamanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Nazlizamanian/nazlizamanian** 
 # Hi 👋, I'm Nazli Zamanian
 ### A passionate computer Engineering Student from Sweden!
 
