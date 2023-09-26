@@ -10,7 +10,6 @@
 - [Microsoft Azure](https://azure.microsoft.com/en-in/)
 - [C](https://www.cprogramming.com/)
 - [C++](https://www.w3schools.com/cpp/)
-- [C#](https://www.w3schools.com/cs/)
 - [CSS](https://www.w3schools.com/css/)
 - [Express](https://expressjs.com)
 - [Git](https://git-scm.com/)
