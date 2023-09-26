@@ -17,7 +17,6 @@
 - [HTML](https://www.w3.org/html/)
 - [Java](https://www.java.com)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [MongoDB](https://www.mongodb.com/)
 - [Microsoft SQL Server](https://www.microsoft.com/en-us/sql-server)
 - [Node.js](https://nodejs.org)
 - [Qt](https://www.qt.io/)
