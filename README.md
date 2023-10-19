@@ -6,7 +6,7 @@
 I am a second-year computer engineering student with a diverse work background. I have always been captivated by technology's impact on our world, which led me to pursue computer engineering.<br>I am currently searching for internship positions along with other professional opportunities in both front-end and back-end development, additionally junior-level positions in the field of cybersecurity! If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
 
 
-# 💻 Tech Stack:
+# 💻 Programming Languages + Tools and Frameworks 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
