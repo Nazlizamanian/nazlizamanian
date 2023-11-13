@@ -1,7 +1,7 @@
 
 **Nazlizamanian/nazlizamanian** 
 # Hi 👋, I'm Nazli Zamanian
-### A computer Engineering Student from Sweden!
+### A computer Engineering Student from Stockholm, Sweden!
 # 💫 About Me:
 I am a second-year computer engineering student with a diverse work background. I am currently searching for internship positions along with other professional opportunities in both front-end and back-end development, additionally junior-level positions in the field of network engineering/cybersecurity! If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
 
