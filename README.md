@@ -1,26 +1,7 @@
 
 **Nazlizamanian/nazlizamanian** 
 # Hi 👋, I'm Nazli Zamanian
-return SizedBox(
-  width: 250.0,
-  child: DefaultTextStyle(
-    style: const TextStyle(
-      fontSize: 30.0,
-      fontFamily: 'Agne',
-    ),
-    child: AnimatedTextKit(
-      animatedTexts: [
-        TypewriterAnimatedText('Discipline is the best tool'),
-        TypewriterAnimatedText('Design first, then code'),
-        TypewriterAnimatedText('Do not patch bugs out, rewrite them'),
-        TypewriterAnimatedText('Do not test bugs out, design them out'),
-      ],
-      onTap: () {
-        print("Tap Event");
-      },
-    ),
-  ),
-);
+
 ### A computer Engineering Student from Stockholm, Sweden!
 # 💫 About Me:
 I am a second-year computer engineering student with a diverse work background. I am currently searching for internship positions along with other professional opportunities in both front-end and back-end development, additionally junior-level positions in the field of network engineering/cybersecurity! If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
