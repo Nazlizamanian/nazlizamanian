@@ -2,7 +2,7 @@
 **Nazlizamanian/nazlizamanian** 
 # Hi 👋, I'm Nazli Zamanian
 
-### A computer Engineering Student from Stockholm, Sweden!
+### A Computer Engineering from Stockholm, Sweden!
 # 💫 About Me:
 I am currently in my final year of studies, set to graduate this summer. I am currently searching for a position along with other professional opportunities in both front-end and back-end development If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
 
