@@ -4,7 +4,7 @@
 
 ### A Computer Engineer from Stockholm, Sweden!
 # 💫 About Me:
-Computer Engineering graduate (2025) & Software Engineer | I enjoy working on mobile platforms especially working with Android & iOS. By building front-end & back-end solutions, and exploring testing tools. If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
+Computer Engineering graduate (Class of 2025) and Software Engineer with a strong interest in mobile development, particularly Android and iOS. My experience includes front-end and back-end development, as well as building cross-platform applications with Flutter and Dart. If you are aware of any available positions that align with my qualifications, I would greatly appreciate the opportunity to discuss furher along at nazlizamanian@gmail.com 
 
 
 # 💻 Programming Languages + Tools and Frameworks 
