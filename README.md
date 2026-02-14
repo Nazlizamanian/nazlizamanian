@@ -45,8 +45,3 @@ Computer Engineering graduate (Class of 2025) and Software Engineer with a stron
 ###
 </div>
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nazlizamanian&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
